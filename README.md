@@ -8,7 +8,7 @@ This Raycast extension allows you to quickly view Celestia addresses on the bloc
 - Support for multiple networks:
   - ✨ Mainnet (celenium.io)
   - 🧪 Mocha Testnet (mocha.celenium.io)
-  - 🧪 Arabica Testnet (arabica.celenium.io)
+  - 🧪 Arabica Devnet (arabica.celenium.io)
 - Validates Celestia addresses (must start with "celestia1")
 - Works directly with clipboard content
 
